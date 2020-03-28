@@ -30,14 +30,14 @@ governorates = {
         "monufia":17,
         "new valley":32,
         "north sinai":34,
-        "port said":03,
+        "port said":3,
         "qalyubia":14,
         "qena":27,
         "red sea":31,
         "sharqia":13,
         "sohag":26,
         "south sinai":35,
-        "suez":04,
+        "suez":4,
 }
 
 def get_governorate(te):
